@@ -1,1 +1,5 @@
+Flask
+Flask-Cors
+numpy
+pickle5  # Use if needed, for compatibility with older models
 
